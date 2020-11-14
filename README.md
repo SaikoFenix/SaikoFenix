@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on my website in which itll be my company "Saiko Fenix Studios" website.
+
+I'm currently learning different languages from html to css to python and javascript.
